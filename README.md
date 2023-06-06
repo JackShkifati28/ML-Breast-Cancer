@@ -88,4 +88,3 @@ For logistic regression, the best model used L1 regularization and a cubed featu
 
 These models can potentially assist healthcare professionals in predicting the survivability of breast cancer patients at different stages, allowing for more informed treatment decisions.
 
-Please refer to the complete report and code for further details and analysis.
