@@ -36,7 +36,7 @@ The initial logistic regression model was trained without any regularization or 
 Different regularization techniques (L1 and L2) and feature transformations (X2 and X3) were applied to improve the model's accuracy. The accuracy results for each combination of regularization and feature transformations were plotted.
 
 ![L2 Regularization without Feature Transformations](images/logreg_l2_no_transform.png)
-![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/images/L1LinearX2.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/images/L1Linear.png)
 
 ![L1 Regularization without Feature Transformations](images/logreg_l1_no_transform.png)
 
