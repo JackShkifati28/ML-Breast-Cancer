@@ -73,14 +73,17 @@ The initial SVM model was trained without any regularization or kernel transform
 ### Regularization and Kernel Transformations
 Different regularization techniques (L2 squared) and kernel transformations (linear, polynomial, and RBF) were applied to improve the model's accuracy. The accuracy results for each combination of regularization and kernel transformations were plotted.
 
-![L2 Regularization with Linear Kernel](images/svm_l2_linear_kernel.png)
+- **L2 Linear:**
+###
 ![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/SvmL2.png)
 
 
-![L2 Regularization with Polynomial Kernel](images/svm_l2_poly_kernel.png)
+- **L2 polynomial:**
+###
 ![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/SVM2-10.png)
 
-![L2 Regularization with RBF Kernel](images/svm_l2_rbf_kernel.png)
+- **L2 RBF:**
+###
 ![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/SVMRBF5.png)
 
 The best SVM model was achieved with L2 regularization and RBF kernel transformation, resulting in a testing accuracy of 83.7% with C values ranging from 0.000010 to 0.000215.
