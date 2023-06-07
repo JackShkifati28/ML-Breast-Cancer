@@ -52,7 +52,7 @@ Different regularization techniques (L1 and L2) and feature transformations (X2 
 
 - **L2 $x^2$ Feature Transformations:**
 ###
-![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/L2LinearX2.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/L2Linearx2.png)
 
 - **L1 $x^3$ Feature Transformations:**
 ###
