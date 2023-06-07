@@ -35,18 +35,19 @@ The initial logistic regression model was trained without any regularization or 
 ### Regularization and Feature Transformations
 Different regularization techniques (L1 and L2) and feature transformations (X2 and X3) were applied to improve the model's accuracy. The accuracy results for each combination of regularization and feature transformations were plotted.
 
-![L2 Regularization without Feature Transformations](images/logreg_l2_no_transform.png)
-![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/NNL1.png)
+** L1 No Feature Transformations **
+![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/L1Linear.png)
 
-![L1 Regularization without Feature Transformations](images/logreg_l1_no_transform.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/L2Linear.png)
 
-![L2 Regularization with X2 Feature Transformation](images/logreg_l2_x2_transform.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/L1LinearX2.png)
 
-![L1 Regularization with X2 Feature Transformation](images/logreg_l1_x2_transform.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/L2LinearX2.png)
 
-![L2 Regularization with X3 Feature Transformation](images/logreg_l2_x3_transform.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/L1linearx3.png)
 
-![L1 Regularization with X3 Feature Transformation](images/logreg_l1_x3_transform.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/L2linearx3.png)
+
 
 The best logistic regression model was achieved with L1 regularization and X3 feature transformation, resulting in a testing accuracy of 91.3% with a C value of 0.014563.
 
