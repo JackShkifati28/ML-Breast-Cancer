@@ -96,11 +96,11 @@ The initial neural network model was trained with a simple architecture of two h
 ### Architecture and Activation Functions
 Different neural network architectures with varying numbers of hidden layers and nodes were tested. Activation functions such as ReLU, Sigmoid, and tanh were applied. The accuracy results for each architecture and activation function were plotted.
 
-- ** RELU:**
+- **RELU:**
 ###
 ![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/NNRelu.png)
 
-- ** Sigmoid:**
+- **Sigmoid:**
 ###
 ![My Image](https://raw.githubusercontent.com/JackShkifati28/ML-Breast-Cancer/main/images/NNSigmoid.png)
 
