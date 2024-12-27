@@ -1,6 +1,6 @@
 # Breast Cancer Survivability Prediction
 
-## Introduction
+
 This project focuses on using different machine learning algorithms to predict the survivability of women with breast cancer at a certain progression of the disease. The dataset used was adapted from Kaggle and includes various features such as age, race, marital status, tumor stage, lymph node stage, cancer stage, grade, differentiation, estrogen status, progesterone status, number of regional nodes examined, number of positive regional nodes, months survived, and survival status of the patient.
 
 ## Preprocessing
